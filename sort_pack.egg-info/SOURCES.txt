@@ -1,0 +1,10 @@
+MANIFEST.in
+requirements.txt
+setup.py
+sort_pack/__init__.py
+sort_pack/sort.py
+sort_pack.egg-info/PKG-INFO
+sort_pack.egg-info/SOURCES.txt
+sort_pack.egg-info/dependency_links.txt
+sort_pack.egg-info/entry_points.txt
+sort_pack.egg-info/top_level.txt
